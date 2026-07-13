@@ -78,25 +78,77 @@ Because the widget must load instantly within external websites, bundle-size opt
 
 ---
 
+---
+
 ## 🖼️ UI/UX Showcase
 
-![Screenshot](./assets/1.png)
+### Standalone Presale Widget Interface
+![Standalone Presale Widget Interface](./assets/1.png)
 
-![Screenshot](./assets/2.png)
+> **Description:** The embeddable dApp engine designed to be injected into any third-party website without CORS issues.
 
-![Screenshot](./assets/3.png)
+---
 
-![Screenshot](./assets/4.png)
+### WalletConnect Web3Modal Integration
+![WalletConnect Web3Modal Integration](./assets/2.png)
 
-![Screenshot](./assets/5.png)
+> **Description:** Direct WebSocket relay allowing users to sign transactions via mobile wallets, bypassing iframe isolation.
 
-![Screenshot](./assets/6.png)
+---
 
-![Screenshot](./assets/7.png)
+### Transaction Confirmation & Gas Estimation
+![Transaction Confirmation & Gas Estimation](./assets/3.png)
 
-![Screenshot](./assets/8.png)
+> **Description:** Pre-flight EVM dry-runs to prevent Out-of-Gas errors and protect user funds.
 
-![Screenshot](./assets/9.png)
+---
 
-![Screenshot](./assets/10.png)
+### Dashboard Portfolio Overview
+![Dashboard Portfolio Overview](./assets/4.png)
+
+> **Description:** Comprehensive view of the user's purchased tokens and current vesting status.
+
+---
+
+### Tokenomics & Vesting Analytics
+![Tokenomics & Vesting Analytics](./assets/5.png)
+
+> **Description:** Visual breakdown of the token allocation and automated release schedules.
+
+---
+
+### Referral & Affiliate Engine
+![Referral & Affiliate Engine](./assets/6.png)
+
+> **Description:** The Merkle Tree-based affiliate tracking system that drastically reduces on-chain gas costs.
+
+---
+
+### KYC & Compliance Gateway
+![KYC & Compliance Gateway](./assets/7.png)
+
+> **Description:** EIP-712 cryptographic signature verification for whitelisting and compliance.
+
+---
+
+### Staking Mechanism Interface
+![Staking Mechanism Interface](./assets/8.png)
+
+> **Description:** UI for users to lock their presale tokens in exchange for protocol yields.
+
+---
+
+### Multi-Sig Treasury Display
+![Multi-Sig Treasury Display](./assets/9.png)
+
+> **Description:** Transparency dashboard showing the Gnosis Safe multi-signature wallet securing the raised funds.
+
+---
+
+### Ecosystem Completed Architecture
+![Ecosystem Completed Architecture](./assets/10.png)
+
+> **Description:** High-level overview of the entire Vercel Edge and Smart Contract infrastructure.
+
+---
 
