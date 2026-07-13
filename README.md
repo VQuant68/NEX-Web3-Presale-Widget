@@ -75,3 +75,28 @@ By pushing heavy processing to the Vercel Edge functions and only verifying cryp
 Because the widget must load instantly within external websites, bundle-size optimization was paramount.
 * Eschewed heavy frameworks like Next.js for a hyper-optimized **Vite** build leveraging the rust-based **Rolldown** bundler.
 * The initial JS entry point was compressed to under 1KB, deferring the loading of heavy Web3 libraries (Ethers, Web3Modal) until explicitly needed via asynchronous dynamic imports.
+
+---
+
+## 🖼️ UI/UX Showcase
+
+![Screenshot](./assets/1.png)
+
+![Screenshot](./assets/2.png)
+
+![Screenshot](./assets/3.png)
+
+![Screenshot](./assets/4.png)
+
+![Screenshot](./assets/5.png)
+
+![Screenshot](./assets/6.png)
+
+![Screenshot](./assets/7.png)
+
+![Screenshot](./assets/8.png)
+
+![Screenshot](./assets/9.png)
+
+![Screenshot](./assets/10.png)
+
